@@ -1,1 +1,2 @@
 # EDX
+This repository will track my process while taking online classes on Open edx. What is Open edx: Open edx  is a open-source platform that powers edX courses and is freely available? With Open edX, educators and technologists can build learning tools and contribute new features to the platform, creating innovative solutions to benefit students everywhere. https://www.edx.org/about-us
